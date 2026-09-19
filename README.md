@@ -12,3 +12,5 @@ Since the application is built using a gettext-based po/mo translation system, p
 
 <img width="390" height="614" alt="Ekran görüntüsü_2026-09-20_01-04-13" src="https://github.com/user-attachments/assets/2aa18506-5f93-4dac-b637-002e6f0f8334" />
 
+License for the button images:
+These images were created by me using GIMP and are licensed under CC BY. Feel free to use them.
