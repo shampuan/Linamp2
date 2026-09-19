@@ -9,5 +9,6 @@ Since the application is built using a gettext-based po/mo translation system, p
 
 <img width="390" height="509" alt="Ekran görüntüsü_2026-09-20_01-05-29" src="https://github.com/user-attachments/assets/a1305584-6c86-485a-86cf-bb051bfd907a" />
 
+
 <img width="390" height="614" alt="Ekran görüntüsü_2026-09-20_01-04-13" src="https://github.com/user-attachments/assets/2aa18506-5f93-4dac-b637-002e6f0f8334" />
 
