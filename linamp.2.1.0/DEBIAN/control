@@ -1,0 +1,14 @@
+Package: linamp2
+Version: 2.1.0
+Architecture: all
+Maintainer: A. Serhat KILICOGLU <https://github.com/shampuan>
+Depends: python3, python3-pyqt6, python3-numpy, python3-mpv, python3-mutagen, ffmpeg, pulseaudio-utils
+Provides: linamp
+Conflicts: linamp
+Replaces: linamp
+Section: sound
+Priority: optional
+Description: Lightweight and stylish music player with VU meter
+ Linamp2 is a minimal-dependency, fast, and retro-looking audio player
+ featuring a digital panel, animated VU meters, and a 10-band equalizer.
+ Designed especially for modern Linux desktop environments.
