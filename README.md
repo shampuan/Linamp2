@@ -7,10 +7,10 @@ The project will now continue to be developed based on this version. New feature
 
 Since the application is built using a gettext-based po/mo translation system, preparing a translation file is very easy. Once you have prepared a translation file, you can submit it to me via the "Issues" section.
 
-<img width="390" height="509" alt="Ekran görüntüsü_2026-09-20_01-05-29" src="https://github.com/user-attachments/assets/a1305584-6c86-485a-86cf-bb051bfd907a" />
+<img width="390" height="509" alt="Ekran görüntüsü_2026-09-20_14-23-28" src="https://github.com/user-attachments/assets/52b0371d-6179-4217-a490-f514d1f017ec" />
 
+<img width="390" height="614" alt="Ekran görüntüsü_2026-09-20_14-23-47" src="https://github.com/user-attachments/assets/3b4e0116-88a6-4089-9929-ae3de3738be8" />
 
-<img width="390" height="614" alt="Ekran görüntüsü_2026-09-20_01-04-13" src="https://github.com/user-attachments/assets/2aa18506-5f93-4dac-b637-002e6f0f8334" />
 
 License for the button images:
 These images were created by me using GIMP and are licensed under CC BY. Feel free to use them.
